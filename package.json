@@ -9,7 +9,7 @@
     "build:prod": "webpack -d && copy src\\index.html dist\\index.html"
   },
   "author": "Beshoy Farag",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
